@@ -1,2 +1,2 @@
-# linux-comands-dictionary
-Dictionary of Linux commands
+**nproc** - Выводит колличество ядер процессора.
+**lscpu** - Выводит информацию о процессоре.
